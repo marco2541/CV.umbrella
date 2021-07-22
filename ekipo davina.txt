@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document CV Pikachu</title>
+     
+        <meta name="description" content="Descripción: Esta es un CV de prueba"/> 
+        <link rel="stylesheet" href="">
+    </head>
+    <body>
+        <header>
+            <img src="" alt="">
+            <h1>Pikachu Impactrueno</h1>
+            <h2>Full Stack Developer</h2>
+            <p>Hello, my name is Pikachu. i from Bandung and
+                born in Barcelona, I am a full stack developer for web 
+                a lo tof experience that i’ve done in the website 
+                world. For more information visit 123.com</p>
+        </header>
+​
+        <section>
+            <p>esto es la parte importante del bodi</p>
+            <section>
+                <h3>Experience</h3>
+                <p>Hello, my name is Pikachu. i from Bandung and
+                    born in Barcelona, I am a full stack developer for web 
+                    a lo tof experience that i’ve done in the website 
+                    world. For more information visit 123.com</p>
+            </section>
+            <section>
+                <h3>Education</h3>
+                <p><section>
+                    <h3>Experience</h3>
+                    <p><ul> esto son la lista de cosas</ul></p>
+                </section></p>
+            </section>
+            <div></div>
+        </section>
+​
+        <footer>
+            <p>Esto es el pie de página</p>
+        </footer>
+​
+    </body>
+</html>
